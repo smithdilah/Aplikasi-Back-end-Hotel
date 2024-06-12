@@ -1,0 +1,8 @@
+Nama Database : "hotelms" (Hotel management sistem)
+
+1. username atau email : Dilah
+
+Password : 123
+
+Kalau tidak bisa anda di persilahkan untuk memeriksa database bagian user atau menambah user baru. 
+
